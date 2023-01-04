@@ -18,7 +18,8 @@ This is the template. For evrey input csv file the script will create an output 
 
 This is kind of input file.
 
-![Screenshot 2023-01-03 151538](https://user-images.githubusercontent.com/57073167/210364652-ebede814-b6d4-4d23-a5fc-a8256d530b72.png)
+![Screenshot 2023-01-03 151538][AP22003587001500050912281137_03_01_2023 14_06_58.csv](https://github.com/Catalin714/accountingProgram/files/10342517/AP22003587001500050912281137_03_01_2023.14_06_58.csv)
+(https://user-images.githubusercontent.com/57073167/210364652-ebede814-b6d4-4d23-a5fc-a8256d530b72.png)
 
 This is kind of output file.
 
