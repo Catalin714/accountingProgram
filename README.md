@@ -16,10 +16,10 @@ This is the template. For evrey input csv file the script will create an output 
 
 
 
-This is kind of input file.
+This is an input file.
 
 (https://github.com/Catalin714/accountingProgram/files/10342517/AP22003587001500050912281137_03_01_2023.14_06_58.csv)
 
-This is kind of output file.
+This is an output file.
 
 [AP12081137.xlsx](https://github.com/Catalin714/accountingProgram/files/10342525/AP12081137.xlsx)
