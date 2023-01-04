@@ -1,6 +1,6 @@
 ****
 
-I did a simple accounting program for an accountant.
+I did a simple accounting python script for automate an accounting task.
 
 Tools and technologies used:
 
